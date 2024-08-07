@@ -1,8 +1,8 @@
 {
-  "name": "react-hw7-phonebook",
+  "name": "goit-react-hw7-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lotickles.github.io/react-hw7-phonebook/",
+  "homepage": "https://lotickles.github.io/goit-react-hw7-phonebook/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.16.3",
